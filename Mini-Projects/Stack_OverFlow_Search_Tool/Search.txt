@@ -1,0 +1,3 @@
+Simply install howdoi by giving "pip install howdoi"
+On terminal, enter like this: howdoi <query>
+Example: howdoi declare lists in python
